@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.Blcontent {
+
+    height: 220px;
+    width: 240px;
+    float: left;
+    margin-top: 80px;
+    margin-left: 80px;
+}
+
+.Blcontent h1  {
+    float: left;
+   
+    font-size: 18px;
+    font-weight: bold;
+    color: white
+}
+
+.Blcontent h2  {
+    float: left;
+    
+    font-size: 25px;
+    color: white;
+
+}
+
+.Blcontent h3  {
+    float: left;
+   
+    font-weight: bold;
+    font-size: 42;
+    margin-bottom: 22px;
+    color: white;
+}
+.iconsni {
+ 
+    width: 220px;
+    height: 50px;
+    float: left;
+}
+.pic1 , .pic2 ,.pic3 ,.pic4 ,.pic5 ,.pic6{
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+    
+}
+.pic1{
+    background-image: url('/src/img/Be.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pic2{
+    background-image: url('/src/img/drib.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pic3{
+    background-image: url('/src/img/fb.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pic4{
+    background-image: url('/src/img/in.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pic5{
+    background-image: url('/src/img/insta.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pic6{
+    background-image: url('/src/img/twitt.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+

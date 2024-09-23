@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.myinfo{
+
+    width: 330px;
+    height: 300px;
+    float: right;
+    margin-top: 55px;
+    margin-right: 50px;
+}
+.myinfo h1{
+    color: white;
+    font-size: 24px;
+}
+.myinfo h2{
+    color:#794d98;
+    font-size: 38px;
+}
+
+.myinfo p{
+    color: white;
+    font-size: 9px;
+}
+.skills h2{
+    color: white;
+    font-size: 22px;
+}
+.skills{
+
+    width: 290px;
+    height: 130px;
+    margin-top: 5px;
+}
+.tools{
+
+    width: 280px;
+    height: 70px;
+    margin-top: 5px;
+}
+.usetool1, .usetool2, .usetool3,.usetool4{
+    border-radius: 5px;
+    width: 60px;
+    height: 60px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 5px;
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
+.usetool1{
+    background-image: url('/src/img/react.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.usetool2{
+    background-image: url('/src/img/ps.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.usetool3{
+    background-image: url('/src/img/js.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.usetool4{
+    background-image: url('/src/img/php.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.Nav{
+   margin-top: 15px;
+    width: 100%;
+    height: 40px;
+}
+.Nav h1{
+    float: left;
+    margin-top: 6px;
+    margin-left: 20px;
+    color: white;
+}
